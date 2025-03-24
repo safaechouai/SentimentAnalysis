@@ -1,1 +1,1 @@
-# SentimentAnalysis
+# Analyse des sentiments des clients
